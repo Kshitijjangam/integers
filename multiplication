@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+    clrscr();
+    int no1=20,no2=30,res;
+    res=no1*no2;
+    scanf("res");
+    printf("%d",res);
+    return 0;
+}
